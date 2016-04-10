@@ -1,0 +1,9 @@
+Test automation pyramid: 
+4#Unit Tests/Component Tests,
+ 3#Acceptance tests(API layer),
+ 2#GUI tests,
+ 1#Manual tests. 
+Deeper test automation level, better the ROI. A nice table for relative costs to fix
+ software defects: Design_%_Implementation_%_Testing_%_Maintanence. Glossary 
+at the end is useful. All of a sudden, 4 testing quadrants is a cool thing for 
+understanding certain pathways. 
